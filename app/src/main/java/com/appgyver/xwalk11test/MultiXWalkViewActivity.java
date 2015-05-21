@@ -58,6 +58,9 @@ public class MultiXWalkViewActivity extends Activity {
      * It is noticeable that devices running Android <= 4.3 are much more stable than
      * devices running on Android >= 4.4.
      *
+     * Crosswalk 11
+     * ============
+     *
      * Samsung Galaxy Tab 4 (arm)   @4.4.2 (API 19) => 7
      * Asus MemoPad 8 (x86)         @4.4.x (API 19) => 7
      * LG Nexus 5 (arm)             @5.0.x (API 21) => 6
